@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{BAA0CFB4-C4C6-4E82-B418-B2B626331F07}|Modul4_103022400063\\Modul4_103022400063.csproj|solutionrelative:modul4_103022400063\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wild-Mane\\TP_MODUL4_103022400063\\TP_MODUL4_103022400063\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAA0CFB4-C4C6-4E82-B418-B2B626331F07}|Modul4_103022400063\\Modul4_103022400063.csproj|d:\\wild-mane\\modul4_103022400063\\modul4_103022400063\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{BAA0CFB4-C4C6-4E82-B418-B2B626331F07}|Modul4_103022400063\\Modul4_103022400063.csproj|solutionrelative:modul4_103022400063\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -18,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,6 +30,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wild-Mane\\TP_MODUL4_103022400063\\TP_MODUL4_103022400063\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TP_MODUL4_103022400063\\TP_MODUL4_103022400063\\Program.cs",
+              "ToolTip": "D:\\Wild-Mane\\TP_MODUL4_103022400063\\TP_MODUL4_103022400063\\Program.cs",
+              "RelativeToolTip": "..\\TP_MODUL4_103022400063\\TP_MODUL4_103022400063\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:22:32.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "gitignore",
               "DocumentMoniker": "D:\\Wild-Mane\\Modul4_103022400063\\Modul4_103022400063\\gitignore",
               "RelativeDocumentMoniker": "Modul4_103022400063\\gitignore",
@@ -42,9 +58,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Wild-Mane\\Modul4_103022400063\\Modul4_103022400063\\Program.cs",
               "RelativeDocumentMoniker": "Modul4_103022400063\\Program.cs",
-              "ToolTip": "D:\\Wild-Mane\\Modul4_103022400063\\Modul4_103022400063\\Program.cs",
-              "RelativeToolTip": "Modul4_103022400063\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAEAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Wild-Mane\\Modul4_103022400063\\Modul4_103022400063\\Program.cs*",
+              "RelativeToolTip": "Modul4_103022400063\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T23:48:11.133Z",
               "EditorCaption": ""
