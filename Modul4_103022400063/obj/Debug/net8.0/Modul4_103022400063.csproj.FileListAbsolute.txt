@@ -1,0 +1,15 @@
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\obj\Debug\net8.0\Modul4_103022400063.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\obj\Debug\net8.0\Modul4_103022400063.AssemblyInfoInputs.cache
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\obj\Debug\net8.0\Modul4_103022400063.AssemblyInfo.cs
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\obj\Debug\net8.0\Modul4_103022400063.csproj.CoreCompileInputs.cache
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\obj\Debug\net8.0\Modul4_103022400063.sourcelink.json
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\bin\Debug\net8.0\Modul4_103022400063.exe
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\bin\Debug\net8.0\Modul4_103022400063.deps.json
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\bin\Debug\net8.0\Modul4_103022400063.runtimeconfig.json
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\bin\Debug\net8.0\Modul4_103022400063.dll
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\bin\Debug\net8.0\Modul4_103022400063.pdb
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\obj\Debug\net8.0\Modul4_103022400063.dll
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\obj\Debug\net8.0\refint\Modul4_103022400063.dll
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\obj\Debug\net8.0\Modul4_103022400063.pdb
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\obj\Debug\net8.0\Modul4_103022400063.genruntimeconfig.cache
+D:\Wild-Mane\Modul4_103022400063\Modul4_103022400063\obj\Debug\net8.0\ref\Modul4_103022400063.dll
